@@ -1,1 +1,1 @@
-# 15-Days-of-Power-BI---Complete-Microsoft-Power-BI-Bootcamp
+Delved into Power BI basics, data cleaning with Power Query, DAX calculations, creating visualizations, connecting data sources, and publishing reports from the Udemy platform.
